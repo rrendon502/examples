@@ -6,7 +6,7 @@ def main(page: ft.Page):
     page.add(
         ft.DataTable(
             width=700,
-            bgcolor="yellow",
+            bgcolor="BLUE",
             border=ft.border.all(2, "red"),
             border_radius=10,
             vertical_lines=ft.border.BorderSide(3, "blue"),
